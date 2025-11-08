@@ -15,6 +15,11 @@ window.WEBRING_SITES = [
         "description": "Fabrizio Ferri-Benedetti blog"
     },
     {
+        "url": "https://www.kevinrkuhl.com/",
+        "name": "Kevin R. Kuhl",
+        "description": "Kevin Kuhl's portfolio site and blog"
+    },
+    {
         "url": "https://jamestasse.tech/",
         "name": "James Tasse",
         "description": "Portfolio. Blog. ?"
